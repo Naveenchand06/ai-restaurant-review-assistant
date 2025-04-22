@@ -14,8 +14,8 @@ It uses RAG (Retrieval Augmented Generation) to answer questions about restauran
 Clone the repository:
 
 ```
-git clone https://github.com/Naveenchand06/restaurant-review-assistant.git
-cd restaurant-review-assistant
+git clone https://github.com/Naveenchand06/ai-restaurant-review-assistant.git
+cd ai-restaurant-review-assistant
 
 Install dependencies:
 pip install -r requirements.txt
@@ -44,7 +44,7 @@ Example:
 
 ### 🛠 Tech Stack
 
-LangChain — Chains, Prompts, and Document Retrieval
-Ollama — Local LLM models (like Llama3, Mistral)
-ChromaDB — Lightweight local Vector Database
-Python — Core language for scripting
+- LangChain — Chains, Prompts, and Document Retrieval
+- Ollama — Local LLM models (like Llama3, Mistral)
+- ChromaDB — Lightweight local Vector Database
+- Python — Core language for scripting
